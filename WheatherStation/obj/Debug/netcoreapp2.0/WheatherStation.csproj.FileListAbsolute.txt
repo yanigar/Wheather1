@@ -1,0 +1,11 @@
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\bin\Debug\netcoreapp2.0\WheatherStation.deps.json
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\bin\Debug\netcoreapp2.0\WheatherStation.runtimeconfig.json
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\bin\Debug\netcoreapp2.0\WheatherStation.runtimeconfig.dev.json
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\bin\Debug\netcoreapp2.0\WheatherStation.dll
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.csprojResolveAssemblyReference.cache
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.csproj.CoreCompileInputs.cache
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.AssemblyInfoInputs.cache
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.AssemblyInfo.cs
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\bin\Debug\netcoreapp2.0\WheatherStation.pdb
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.dll
+C:\Users\yanig\source\repos\WheatherStation\WheatherStation\obj\Debug\netcoreapp2.0\WheatherStation.pdb
